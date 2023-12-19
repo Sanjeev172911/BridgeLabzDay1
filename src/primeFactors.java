@@ -22,7 +22,6 @@ public class primeFactors {
                 System.out.println(number);
             }
         }
-
     }
     public static void main(String[] args) {
         Scanner input=new Scanner(System.in);
